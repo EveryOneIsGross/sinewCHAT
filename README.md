@@ -20,7 +20,7 @@ This project implements a neural conversational agent using OpenAI's language mo
 
 ### `chatBOT`
 
-- Acts as the interface for interacting with OpenAI's language model.
+- Acts as the interface for interacting with OpenAI.
 - Generates responses based on user prompts.
 - Supports chat-based conversations using the OpenAI Chat Completion API.
 
