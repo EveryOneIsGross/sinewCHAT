@@ -3,7 +3,7 @@
 ![sinew](https://github.com/EveryOneIsGross/sinewCHAT/assets/23621140/fcfd3366-76c3-4a89-945f-4a148c87b7ff)
 
 
-# a pseudo-neural Conversational Agent
+# a pseudo-neuralnet chatbot
 
 This project implements a neural conversational agent using OpenAI's language model. The agent is designed to generate responses, analyze sentiment, extract keywords, and provide summaries based on user input.
 
@@ -18,7 +18,7 @@ This project implements a neural conversational agent using OpenAI's language mo
 
 ## Components
 
-### `chatBOT
+### `chatBOT`
 
 - Acts as the interface for interacting with OpenAI's language model.
 - Generates responses based on user prompts.
