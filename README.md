@@ -7,7 +7,7 @@
 
 This project implements a neural conversational agent using OpenAI's language model. The agent is designed to generate responses, analyze sentiment, extract keywords, and provide summaries based on user input. The architecture of the sinewCHAT project is based on a neural model, which is an abstraction of how a biological brain works. In this model, each chatbot instance is treated as a neuron. Here's a high-level overview of the architecture:
 
-OpenAIAgent: This is the base class that interacts with the OpenAI API. It is responsible for generating responses and summaries from a given prompt using GPT-3, a language prediction model developed by OpenAI.
+OpenAIAgent: This is the base class that interacts with the OpenAI API. It is responsible for generating responses and summaries from a given prompt using openai api.
 
 Neuron: This class represents a neuron in the neural model. Each Neuron instance uses an OpenAIAgent to generate responses and calculate sentiment scores. It also extracts relevant keywords from the responses.
 
